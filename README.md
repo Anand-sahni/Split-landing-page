@@ -1,3 +1,7 @@
+# You can view this application by clicking on the link provided below.
+<br/>
+https://anand-sahni.github.io/Split-landing-page/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Anand-sahni/Split-landing-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
